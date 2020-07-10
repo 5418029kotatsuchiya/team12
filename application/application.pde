@@ -1,3 +1,9 @@
+class Wall {
+}
+
+class Human {
+}
+
 void setup() {
 
 }
